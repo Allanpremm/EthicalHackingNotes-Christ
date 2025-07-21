@@ -1,4 +1,4 @@
-
+# 🛡️ Ethical Hacking Notes - Day 01
 # 🐱‍💻 Kali Linux Installation on VirtualBox
 
 This guide helps you install **Kali Linux** on **VirtualBox** (https://www.virtualbox.org/) — perfect for ethical hacking and cybersecurity learning.
