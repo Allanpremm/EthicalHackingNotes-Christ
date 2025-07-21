@@ -20,7 +20,8 @@ This guide helps you install **Kali Linux** on **VirtualBox** (https://www.virtu
 
 🔗 [Download VirtualBox](https://www.virtualbox.org)
 
-![VirtualBox Homepage](images/virtualbox-home.png)
+![VirtualBox Homepage]<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/b21aad11-a6cb-4fb2-8f95-6de9c5c9b1b4" />
+
 
 - Choose your OS and install VirtualBox like any normal application.
 
@@ -30,7 +31,8 @@ This guide helps you install **Kali Linux** on **VirtualBox** (https://www.virtu
 
 🔗 [Get Kali Linux](https://www.kali.org/get-kali/)
 
-![Kali Download Page](images/kali-download.png)
+![Kali Download Page]<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/544b3396-6a27-4f64-b6bf-d30bfdcd0eee" />
+
 
 - Under **Installer Images**, download the 64-bit `.iso` file.
 - Optional: Verify SHA256.
@@ -41,7 +43,8 @@ This guide helps you install **Kali Linux** on **VirtualBox** (https://www.virtu
 
 - Open **VirtualBox**, click **New**.
 
-![Create New VM](images/vm-create.png)
+![Create New VM]<img width="960" height="735" alt="image" src="https://github.com/user-attachments/assets/5de87d6e-fb6c-4f90-8920-fc5afc6ae638" />
+
 
 - Name: `Kali Linux`
 - Type: `Linux`
@@ -58,8 +61,6 @@ Go to:
 - Under "Controller: IDE" → Click **Empty**
 - Click CD icon → **Choose a disk file...**
 
-![Attach ISO](images/attach-iso.png)
-
 - Select Kali Linux ISO
 
 ---
@@ -68,12 +69,9 @@ Go to:
 
 Click **Start**, then select **Graphical Install**
 
-![Graphical Install](images/graphical-install.png)
 
 - Follow the prompts: language, location, user, password, timezone
 - Use entire disk for partitioning
-
-![Partition Setup](images/partition.png)
 
 - Installation will take 15–30 minutes
 
@@ -86,7 +84,8 @@ After installation:
 - Reboot
 - Login using credentials set during install
 
-![Kali Desktop](images/kali-desktop.png)
+![Kali Desktop]<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2f99d2d9-2b35-42c3-9dcd-9aa9ea290b1e" />
+
 
 🎉 You now have Kali Linux running in VirtualBox!
 
